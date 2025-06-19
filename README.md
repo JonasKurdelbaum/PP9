@@ -4,7 +4,7 @@
 
 In this exercise you will:
 
-* Practice using **control structures** (`for`, `if/else`, `switch`) by implementing subprograms.
+* Practice using **control structures** (`for`, `if/else`, `switch`) by implementing subprograms. 
 * Break algorithms into modular C files and design functions with input/output contracts.
 * Translate a flowchart (in Mermaid syntax) into working C code.
 
